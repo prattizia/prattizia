@@ -1,8 +1,8 @@
-# Ernest Pratt | Front-End Developer | Future Full Stack Engineer | AWS Cloud Enthusiast  
+# Ernest Pratt | Accounting Professional | Trainee Front-End Developer | Future Full Stack Engineer | AWS Cloud Enthusiast  
 
 **Welcome to my GitHub Profile!** 👋  
 
-I'm a passionate **Front-End Developer** enrolled in the **ALX Front-End Web Development program**, with a strong vision for **full-stack development** and **cloud computing**. My journey into software engineering stems from a drive to build systems that empower rather than control. Leveraging my accounting background, I aspire to **consult at the intersection of finance & technology**, developing scalable and innovative solutions.
+I'm an **Accounting Professional** with an undying passion for Software Engineering. I am currently enrolled in the **ALX Front-End Web Development program**, with a strong vision for **full-stack development** and **cloud computing**. My journey into software engineering stems from a drive to build systems that empower rather than control. Leveraging my accounting background, I aspire to **consult at the intersection of finance & technology**, developing scalable and innovative solutions.
 
 ---
 
@@ -19,10 +19,8 @@ I'm a passionate **Front-End Developer** enrolled in the **ALX Front-End Web Dev
 ## 🛠 Tech Stack & Tools  
 
 **Frontend:** `HTML` | `CSS` | `JavaScript` | `React.js`  
-**Backend:** `Node.js` | `Express.js` | `PostgreSQL`  
 **Cloud Computing:** `AWS` | `EC2` | `S3` | `Lambda` | `DynamoDB` | `CloudFormation`  
 **Version Control:** `Git` | `GitHub`  
-**Other:** `Docker` | `CI/CD Pipelines` | `REST API Development`  
 
 ---
 
