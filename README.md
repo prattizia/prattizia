@@ -18,7 +18,7 @@ I'm an **Accounting Professional** with an undying passion for Software Engineer
 
 ## 🛠 Tech Stack & Tools  
 
-**Frontend:** `HTML` | `CSS` | `JavaScript`
+**Frontend:** `HTML` | `CSS` | `JavaScript`  
 **Cloud Computing:** `AWS` | `EC2` | `S3` | `Lambda` | `DynamoDB` | `CloudFormation`  
 **Version Control:** `Git` | `GitHub`  
 
